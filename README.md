@@ -138,6 +138,9 @@ The obtained docking poses indicate that curcumin is capable of interacting with
 
 The molecular docking study of **Curcumin (PubChem CID: 969516)** against the **SARS-CoV-2 Main Protease (PDB ID: 6LU7)** was performed to investigate its binding behavior and interaction potential.
 
+#Author 
+Anusree pattamsetty || Bioinformatics 
+
 The docking analysis generated multiple ligand conformations and provided information about binding energy, intermolecular interactions, and ligand flexibility. Curcumin showed interaction capability with SARS-CoV-2 Mpro, suggesting that it may serve as a potential lead molecule for antiviral research.
 
 Further investigations such as molecular dynamics simulation, ADMET prediction, and experimental validation are required to confirm the antiviral activity and therapeutic potential of curcumin.
